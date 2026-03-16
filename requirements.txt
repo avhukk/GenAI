@@ -1,0 +1,9 @@
+transformers
+qwen-vl-utils
+torch
+openai
+numpy
+pandas
+scikit-learn
+matplotlib
+sentence-transformers
