@@ -208,3 +208,4 @@ __marimo__/
 
 # Virtual environment for GenAI project
 .genaivenv/
+genaivenv/
