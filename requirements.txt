@@ -3,7 +3,9 @@ qwen-vl-utils
 torch
 openai
 numpy
+requests
 pandas
 scikit-learn
 matplotlib
 sentence-transformers
+faiss-cpu
