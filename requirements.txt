@@ -9,3 +9,10 @@ scikit-learn
 matplotlib
 sentence-transformers
 faiss-cpu
+secret_key
+python-dotenv # for api keys
+
+# For langchain 
+langchain
+langchain-openai
+openai
